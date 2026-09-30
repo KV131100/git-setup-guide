@@ -2,6 +2,8 @@
 
 Notes from setting up Git on Ubuntu Linux and connecting it to GitHub over SSH, plus a quick primer on "agent mode" in AI coding tools.
 
+**More notes:** [Home server session, 2026-09-30](home-server-2026-09-30.md): pushing to GitHub, remote file access over Tailscale, and installing Nextcloud.
+
 ## Contents
 
 1. [What is agent mode?](#1-what-is-agent-mode)
